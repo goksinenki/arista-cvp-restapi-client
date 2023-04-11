@@ -20,11 +20,11 @@ with open("token.tok") as f:
     token = f.read().strip('\n')
 
 cvp_url = "https://YourCVPIPAddress"
-#mac = "0050.56a1.89c7"
+#mac = "0050.xxxx.yyyy"
 #mac = EUI(mac)
 #mac.dialect = mac_unix_expanded
 #print(mac)
-#deviceid = "SGD21019975"
+#deviceid = "SGDxxxyyy"
 
 def json_decoder(data):
     decoder = JSONDecoder()
