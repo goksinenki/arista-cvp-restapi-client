@@ -12,6 +12,7 @@ That's a small python script example which makes the following operations
 Installation / Requirements
 
 pip install netaddr
+
 pip install json
 
 You need to generate a token.tok file for authentication (for more info https://www.arista.com/en/cg-cv/cv-service-accounts)
